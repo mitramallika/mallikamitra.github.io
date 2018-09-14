@@ -1,0 +1,24 @@
+h1 {color: steelblue;
+font-size: 32px;
+font-weight: "bold"
+}
+
+b {color: hotpink;
+  font-size: 18px;
+}
+
+h3 {color: violet;
+  text-align: "center";
+  font-size: 24px;
+  font-family: Arial, sans-serif;
+}
+
+p {font-size: 20px;
+  font-family: "Times New Roman", serif;
+}
+
+img {max-width: 600px
+  max-height: auto}
+
+  body {color: aquamarine;
+  }
