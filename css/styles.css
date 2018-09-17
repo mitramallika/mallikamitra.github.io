@@ -3,7 +3,7 @@ font-size: 32px;
 font-weight: "bold"
 }
 
-b {color: hotpink;
+b {color: violet;
   font-size: 18px;
 }
 
@@ -20,5 +20,5 @@ p {font-size: 20px;
 img {max-width: 600px
   max-height: auto}
 
-  body {color: aquamarine;
+  body {color: black;
   }
