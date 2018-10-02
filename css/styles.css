@@ -27,7 +27,7 @@ body {
   text-align: left;
 }
 
-li {
+nav ul li {
   display: 'inline';
   padding: 0px 10 px 0 px 10 px;
 }
