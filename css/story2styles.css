@@ -6,7 +6,7 @@ orange links and header background
 
 FONTS:
 h1, h2, h3, h4, h5, h6,
-font-family: 'Merriweather', serif;
+font-family: 'Montserrat', serif;
 font-family: 'Roboto', sans-serif;
 
 --------*/
@@ -18,7 +18,7 @@ font-family: 'Roboto', sans-serif;
 }
 
 body {
-  font-family: 'Merriweather', serif;
+  font-family: 'Montserrat', serif;
   font-size: 18px;
   font-weight: 400;
   color: black;
@@ -35,7 +35,7 @@ nav ul li {
 /*FONT STYLES*/
 
 h1, h2, h3, .summary, #byline, figcaption, blockquote {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 h1, h2, h3, blockquote {
@@ -81,9 +81,9 @@ h3 {
 }
 
 figcaption {
-  font-family: Roboto, sans-sans-serif;
+  font-family: Montserrat, sans-sans-serif;
   font-size: 14px;
-  color: #808080;
+  color: ##0057e7;
   font-style: normal;
   font-weight: 300;
   text-align: left;
@@ -96,22 +96,23 @@ blockquote {
   text-align: center;
   padding: 5px;
   border: 3px 0px;
-  border-color: #DB7093
+  border-color: ##0057e7
 }
 
 a {
-  color: #DB7093;
+  color: ##0057e7;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
+  color: pink
 }
 
 /*Layouts*/
 
 nav {
-  font-family: Roboto, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-size: 12px;
   text-align: center;
   text-transform: uppercase;
