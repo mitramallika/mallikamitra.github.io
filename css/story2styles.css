@@ -2,12 +2,11 @@
 Colors:
 black text
 white nbackground
-orange links and header background
+blue links and header background; pink when hovered over
 
 FONTS:
 h1, h2, h3, h4, h5, h6,
 font-family: 'Montserrat', serif;
-font-family: 'Roboto', sans-serif;
 
 --------*/
 
@@ -133,6 +132,7 @@ article {
 footer {
   max-width: 100%;
   text-align: center;
+  color: ##0057e7;
 }
 
 /* IMAGES */
