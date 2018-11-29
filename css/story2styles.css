@@ -126,7 +126,7 @@ nav {
 }
 
 header {
-  background-image:url(https://drive.google.com/file/d/1RQ4KgztGB-9afNk_8KSDWIvTPaytdpOi/view?usp=sharing);
+  background-image:url(back.jpg); /*IMAGE IS OT SHOWING BUT WEB IMAGES WORK, WTF! */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -147,9 +147,20 @@ footer {
 
 /* IMAGES */
 
+figure {
+  display: block;
+  margin: 0px;
+}
+
 img {
   max-width: 100%;
-  margin: auto;
+  height: auto;
+}
+
+figcaption {
+  text-align: center;
+  line-height: 1.2;
+  padding: 2px 2px;
 }
 
 .imagewrapper {
