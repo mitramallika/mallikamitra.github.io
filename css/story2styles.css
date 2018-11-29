@@ -148,8 +148,8 @@ footer {
 /* IMAGES */
 
 img {
-  max-width: 200%;
-  height: auto; rotate(180deg);
+  max-width: 100%;
+  height: auto;
 }
 
 .imagewrapper {
