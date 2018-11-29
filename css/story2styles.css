@@ -80,7 +80,7 @@ h3 {
 }
 
 figcaption {
-  font-family: Montserrat, sans-sans-serif;
+  font-family: 'Montserrat', sans-sans-serif;
   font-size: 14px;
   color: #0057e7;
   font-style: normal;
@@ -111,8 +111,8 @@ a:hover {
 /*Layouts*/
 
 nav {
-  background-color: white;
-  font-family: Montserrat, sans-serif;
+  background-color: black;
+  font-family: 'Montserrat', sans-serif;
   font-size: 12px;
   text-align: center;
   text-transform: uppercase;
