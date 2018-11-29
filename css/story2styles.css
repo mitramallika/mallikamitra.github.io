@@ -12,8 +12,12 @@ font-family: 'Montserrat', serif;
 
 /*styles that apply to everything in general*/
 
-*, html {
+html {
     box-sizing: "border-box";
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
 }
 
 body {
@@ -111,18 +115,22 @@ a:hover {
 /*Layouts*/
 
 nav {
-  background-color: black;
+  background-color: white;
   font-family: 'Montserrat', sans-serif;
   font-size: 12px;
   text-align: center;
   text-transform: uppercase;
   padding: 5px 5px 10px 5px;
   max-width: 100%;
+  margin: auto;
 }
 
 header {
-  background-image:url(images/football3.jpg);
+  background-image:url(back.jpg);
   background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: auto;
 }
 
 article {
