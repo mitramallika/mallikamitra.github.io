@@ -51,6 +51,7 @@ h1 {
   text-align: center;
   line-height: 1.3;
   padding: 10px 15px;
+  background-color: #ca637f;
 }
 
 h2 {
@@ -113,10 +114,6 @@ nav {
   padding: 5px 5px 10px 5px;
   max-width: 100%;
   margin: auto;
-}
-
-header {
-  background-color: #ca637f
 }
 
 article {
