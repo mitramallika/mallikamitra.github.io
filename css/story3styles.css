@@ -116,11 +116,7 @@ nav {
 }
 
 header {
-  background-image:url(back.jpg); /*IMAGE IS OT SHOWING BUT WEB IMAGES WORK, WTF! */
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  margin: auto;
+  background-color: #ca637f
 }
 
 article {
